@@ -1,2 +1,3 @@
 # phone-book-application
 A Phone Book Application is a simple software tool designed to store and manage contact information such as names, phone numbers, email addresses, and other related details.
+A Phone Book Application is a simple software tool designed to store and manage contact information such as names, phone numbers, email addresses, and other related details. This application allows users to add, edit, delete, and search contacts efficiently. In this project, we will build a basic web-based phone book application using HTML, CSS, JavaScript, and a backend with Node.js (for server-side functionalities) and SQLite as the database.
